@@ -58,5 +58,8 @@
 
 ## Leadership Experience  
 ### Business Analytics and Artificial Intelligence Leadership Council  
-- Organized events to enhance
+- Organized events to enhance the visibility and reputation of the program.  
+
+### Technical Officer, Code.exe  
+- Led technical operations and coordinated coding events, ensuring seamless execution.  
 
